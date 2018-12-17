@@ -244,7 +244,7 @@ drugi nacin isticanja trenutnog linka*/
 }
 
 .pet-ponuda-start-bcg {
-  background-image: url('img/ponuda1.jpg');
+  background-image: url('../img/ponuda1.jpg');
   min-height: 470px;
   background-attachment: fixed;
   background-position: center;
@@ -331,7 +331,7 @@ drugi nacin isticanja trenutnog linka*/
 /*kuce saveti*/
 
 .pet-ponuda-kuce-special-bcg {
-  background-image: url('kuce-special-bcg.jpg');
+  background-image: url('../kuce-special-bcg.jpg');
   height: 533px;
   background-attachment: fixed;
   background-position: center;
@@ -362,7 +362,7 @@ drugi nacin isticanja trenutnog linka*/
 }
 
 .pet-ponuda-mace-special-bcg {
-  background-image: url('mace-special-bcg.jpg');
+  background-image: url('../mace-special-bcg.jpg');
   min-height: 533px;
   background-attachment: fixed;
   background-position: 80% -70%;
@@ -385,7 +385,7 @@ drugi nacin isticanja trenutnog linka*/
 }
 
 .pet-ponuda-ptice-special-bcg {
-  background-image: url('ptice-special-bcg.jpg');
+  background-image: url('../ptice-special-bcg.jpg');
   min-height: 533px;
   background-attachment: fixed;
   background-position: center;
@@ -408,7 +408,7 @@ drugi nacin isticanja trenutnog linka*/
 }
 
 .pet-ponuda-mali-drugari-special-bcg {
-  background-image: url('mali-drugari-special-bcg.jpg');
+  background-image: url('../mali-drugari-special-bcg.jpg');
   min-height: 533px;
   background-attachment: fixed;
   background-position: center;
